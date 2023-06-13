@@ -74,3 +74,17 @@
 ![로그아웃버튼](https://github.com/raheekang/Bingo-Game-react/assets/134080499/335a11bf-e810-430f-8096-74dd5f1dfc3e)
 
 - 우측 상단의 ‘sign out’ 버튼 클릭 시 처음 로그인 화면으로 돌아 갈 수 있음
+
+<aside>
+📌 유튜브 링크
+
+</aside>
+
+https://youtu.be/JJfOlILtYhE
+
+<aside>
+📌 배포 링크
+
+</aside>
+
+https://react-disney-plus-app-df337.web.app/
